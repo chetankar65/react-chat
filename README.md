@@ -1,4 +1,5 @@
 Made a simple chat application using react and firebase. Followed Lama Dev react tutorials on youtube
+Application needs a little more work.
 
 ![image](https://github.com/chetankar65/react-chat/assets/26086224/50e01ca6-5538-4b13-862c-079ef04bbc3b)
 
